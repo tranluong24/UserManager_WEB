@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=enOsPhp2Z6Q
+
+1. Demo of CRUD Operation
+2. Create React App
+3. Front-End Code for CRUD
+------------------------------
+4. Create Server Side App
+5. Start Server Side Code 
+6. MongoDB Setup
+7. Create User Model
+8. New Record API 
+9. Fetch Records and Display
+10. Update a Record
+11. Delete a Record
